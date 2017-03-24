@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html Public "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtmll/DTD/xhtmll-transitional.dtd">
 <html <?php language_attributes(); ?>>
 	<head>
 		<meta charset="utf-8" />
