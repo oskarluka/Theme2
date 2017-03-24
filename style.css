@@ -1,5 +1,5 @@
 /*
-Theme Name: Prototype
+Theme Name: Custom Theme 2
 Author: Oskar Lukasik
 Version: 0.1.12
 */
@@ -243,4 +243,21 @@ p.post-info {
 p.post-info a:link,
 p.post-info a:visited {
 	color: #999;
+}
+
+/*Image Style*/
+img {
+	max-width: 100%
+	height: auto;
+}
+
+.has-thumbnail {
+	position: relative;
+	padding-left: 200px
+}
+
+.post-thumbnail {
+	position: absolute;
+	top: 0;
+	left: 0;
 }
